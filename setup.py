@@ -25,7 +25,6 @@ setup(name='faced',
       license='MIT',
       packages=['faced'],
       scripts=["bin/faced"],
-      install_requires=required,
       python_requires='>3.4',
       include_package_data=True,
       zip_safe=False)
